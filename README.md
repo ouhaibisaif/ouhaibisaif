@@ -11,6 +11,13 @@ and the web apps people use.
   a local-first RAG document platform, and a
   [multilingual restaurant chatbot](https://github.com/ouhaibisaif/restaurant-chatbot) (EN/FR/AR).
 
+## Featured projects
+
+| Project | What it is |
+|---|---|
+| [DocuLens](https://github.com/ouhaibisaif/ai-document-intelligence) | Local-first RAG over PDFs, DOCX and scans: OCR, ChromaDB search, chat with sources. FastAPI · React · PostgreSQL · Ollama |
+| [Restaurant Chatbot](https://github.com/ouhaibisaif/restaurant-chatbot) | EN/FR/AR restaurant assistant with reservations and prompt-injection guardrails in code. FastAPI · React · SQLite · Ollama |
+
 Python · Django REST · FastAPI · Angular · React · PostgreSQL · Docker · Azure
 
 Languages: Arabic, French, English, German (B2).
